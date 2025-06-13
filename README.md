@@ -23,8 +23,7 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of Mala
    - numpy
    - matplotlib
    - seaborn
-3. Open `eda_darah_eda.ipynb` in Jupyter Notebook or VS Code to explore the analysis step by step.
-4. Alternatively, run `eda_darah_eda.py` for a script-based version.
+3. Open `eda_darah_public.ipynb` in Jupyter Notebook or VS Code to explore the analysis step by step.
 
 ## Reproducing the Analysis
 - All code is well-commented and structured for clarity.
@@ -34,8 +33,8 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of Mala
 ## Authors
 - Azrul Syaffiq
 
-## Authors
+## Data Source
 - MOH Github
 
 ## License
-This project is for academic and non-commercial use. Please cite appropriately if you use or adapt this work.
+This project is for academic and non-commercial use. 
